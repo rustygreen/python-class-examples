@@ -5,4 +5,3 @@ if typedPassword == secretPassword:
     print('Access granted')
 else:
     print('Access denied')
-
