@@ -1,0 +1,102 @@
+[
+  {
+    "firstName": "Kyle",
+    "lastName": "Headley",
+    "birthday": 31
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Miller",
+    "age": 24
+  },
+  {
+    "firstName": "Rebecca",
+    "lastName": "MacKenzie",
+    "age": 62
+  },
+  {
+    "firstName": "Phil",
+    "lastName": "Nguyen",
+    "age": 14
+  },
+  {
+    "firstName": "Nicholas",
+    "lastName": "Labich",
+    "age": 23
+  },
+  {
+    "firstName": "Aseem",
+    "lastName": "Rastogi",
+    "age": 36
+  },
+  {
+    "firstName": "James",
+    "lastName": "Parker",
+    "age": 42
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Ruef",
+    "age": 34
+  },
+  {
+    "firstName": "Lucy",
+    "lastName": "Pina",
+    "age": 42
+  },
+  {
+    "firstName": "Kristopher Micinski",
+    "lastName": "student",
+    "age": 76
+  },
+  {
+    "firstName": "Jinseong",
+    "lastName": "Jeon",
+    "age": 12
+  },
+  {
+    "firstName": "Yit",
+    "lastName": "Khoo",
+    "age": 5
+  },
+  {
+    "firstName": "Piotr",
+    "lastName": "Mardziel",
+    "age": 31
+  },
+  {
+    "firstName": "Karla",
+    "lastName": "Saur",
+    "age": 42
+  },
+  {
+    "firstName": "Brianna",
+    "lastName": "Ren",
+    "age": 41
+  },
+  {
+    "firstName": "Neil",
+    "lastName": "Toronto",
+    "age": 21
+  },
+  {
+    "firstName": "Ted",
+    "lastName": "Smith",
+    "age": 12
+  },
+  {
+    "firstName": "David",
+    "lastName": "Horn",
+    "age": 52
+  },
+  {
+    "firstName": "Jeff ",
+    "lastName": "Foster",
+    "age": 13
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "Hicks",
+    "age": 11
+  }
+]

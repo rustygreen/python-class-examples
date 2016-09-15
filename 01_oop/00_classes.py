@@ -9,6 +9,7 @@ class Person:
     def say_my_name(self):
         self.speak('Hello, my name is ' + self.first_name + ' ' + self.last_name)
 
+
 # instantiate a new instance of a person.
 rusty = Person('Rusty', 'Green')
 

@@ -1,3 +1,4 @@
+my_str = 'hello world'
 my_true = True
 my_false = False
 my_int = 4
